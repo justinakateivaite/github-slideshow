@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-![This is an image](https://media.giphy.com/media/l2SpMv1fqz8vFD0Bi/giphy.gif?cid=ecf05e476jgbrpyrui2byqqr6vibq3wsw3z1h1fmcsy26cj2&rid=giphy.gif&ct=g) 
+![This is an image](<iframe src="https://me.me/embed/i/b23a3d7b48c840a1903d2adca0b56665" width="500" height="346" frameBorder="0" class="meme-embed" style="max-width:100%;margin:0 auto;" allowFullScreen></iframe><p>via <a href="https://me.me">MEME</a></p>) 
 Use the left arrow to go back!
